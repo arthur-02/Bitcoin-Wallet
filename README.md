@@ -1,4 +1,4 @@
-# Td2_Liot_Blan
+# Bitcoin Wallet
 
 TD 2 de Blockchain Programming :
 Wallet Management, BIP39 et BIP32
